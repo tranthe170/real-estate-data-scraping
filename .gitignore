@@ -3,5 +3,5 @@ scraped_data/	scraped_data/
 reconciled_data/	reconciled_data/
 downloaded_files/	
 test/	test/
-.vscode	
+.vscode/	
 **/__pycache__	**/__pycache__
